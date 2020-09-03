@@ -3,7 +3,7 @@
     "action": "run",
     "cleanUpAfterRun": true,
     "shouldUseSauce": true,
-    "sauceDeviceName": "MicrosoftEdge",
-    "saucePlatformVersion": "15.15063",
+    "sauceDeviceName": "microsoftedge",
+    "saucePlatformVersion": "84.0",
     "verbose": true
 }
